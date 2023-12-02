@@ -36,7 +36,7 @@ function main() {
   } else if (counter === 4) {
     typeToPrompt(0, "LinkedIn", linkElement2, 5);
   } else if (counter === 5) {
-    typeToPrompt(0, "e2202869@edu.vamk.fi", linkElement3, 5);
+    typeToPrompt(0, "pirinenao@proton.me", linkElement3, 5);
   }
 }
 
