@@ -1,5 +1,5 @@
-const compile = "gcc -o welcome foo.c";
-const execute = "./welcome";
+const compile = "gcc -o introduction foo.c";
+const execute = "./introduction";
 const introText =
   "Hi there! My name is Antti. \n\nI'm a 24-year-old IT engineering student at Vaasa UAS.\n" +
   "I am currently in my second year, focusing on embedded systems.\n\nI'm really interested in technology," +
