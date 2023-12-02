@@ -1,7 +1,7 @@
 const text1 = "gcc -o welcome foo.c";
 const text2 = "./welcome";
 const text3 =
-  "Hi there! My name is Antti. \n\nI'm a 24-year-old IT engineering student from Vaasa UAS.\n" +
+  "Hi there! My name is Antti. \n\nI'm a 24-year-old IT engineering student at Vaasa UAS.\n" +
   "Currently studying my second year with a focus on embedded systems.\n\nI'm really intrested in technology," +
   " especially in Linux operating systems,\n and C/C++ programming. Eager to learn and embrace new challenges.\n\n" +
   "Feel free to contact me through email, or the social medias linked down below!\n\nKind Regards\nAntti Pirinen";
