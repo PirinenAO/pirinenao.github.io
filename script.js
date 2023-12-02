@@ -61,7 +61,6 @@ const span = document.querySelector("span");
 
 span.onclick = function () {
   document.execCommand("copy");
-  alert("Email copied to clipboard");
 };
 
 span.addEventListener("copy", function (event) {
