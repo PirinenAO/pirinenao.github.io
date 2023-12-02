@@ -33,7 +33,7 @@ body {
   margin-top: -20px;
 }
 
-.launch {
+.inputText {
   margin-left: 10px;
   color: #abb2bf;
 }
@@ -44,7 +44,7 @@ body {
 }
 
 .links {
-  margin-top: 1%;
+  margin-top: 5px;
   color: #61afef;
   cursor: pointer;
   display: inline-block;
@@ -60,7 +60,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 18px;
 }
 
 .text {
