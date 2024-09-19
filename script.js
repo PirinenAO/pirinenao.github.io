@@ -1,8 +1,8 @@
 const compileText = "gcc -o introduction foo.c";
 const executeText = "./introduction";
 const introText =
-  "Hi there! My name is Antti. \n\nI'm a 24-year-old IT engineering student at Vaasa UAS.\n" +
-  "I am currently in my second year, focusing on embedded systems.\n\nI'm really interested in technology," +
+  "Hi there! My name is Antti. \n\nI'm a IT engineering student at Vaasa UAS.\n" +
+  "I am currently in my third year, focusing on embedded systems.\n\nI'm really interested in technology," +
   " especially in Linux operating systems\n and C/C++ programming. Eager to learn and embrace new challenges.\n\n" +
   "Feel free to contact me through email, or the social medias linked down below!\n\nKind Regards,\nAntti Pirinen";
 //constants holding "input" elements
